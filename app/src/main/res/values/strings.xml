@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">YellowPageDemo</string>
+    <string name="certain">确定</string>
+    <string name="cancel">取消</string>
+    <string name="yellow_page">黄页</string>
+    <string name="db_not_found">未找到数据库，请重新打开app</string>
+    <string name="loading_db">正在解压数据库，请稍等</string>
+</resources>
